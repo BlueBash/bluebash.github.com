@@ -14,15 +14,13 @@ Address: 1201 Brickell Ave #300 Miami, FL 33131
 
 Phone :   (786) 946-1616
 
-Connected With Soical Media 
+Welcome to follow us on
 
-Facebook:- https://www.facebook.com/bluebashco
-
-Twitter:- https://twitter.com/bluebashco
-
-LinkedIn:- https://www.linkedin.com/company/bluebashco
-
-Instagram:- https://www.instagram.com/bluebashco/
-
-YouTube:- https://www.youtube.com/channel/UC1gABgoQfdH1euLhUL9-i4A
+Dribble - https://dribbble.com/bluebashco
+Behance - https://www.behance.net/bluebash
+Facebook - https://www.facebook.com/bluebashco
+Linkedin - https://www.linkedin.com/company/bluebashco
+Instagram - https://www.instagram.com/bluebashco/
+Pinterest - https://in.pinterest.com/bluebashco/
+Twitter - https://twitter.com/bluebashco
 
