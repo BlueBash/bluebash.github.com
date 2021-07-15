@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BlueBash/bluebash.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Bluebash is a growing software development, technology consulting and digital application solutions company. We provide services to a wide range of industries including Finance, Healthcare, Education, Sports, Retail.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are providing uninterrupted Ruby on Rails application development services to global businesses, ranging from enterprise organisations to product startups. We are a team of top Ruby on Rails development experts, having knowledge-rich experience in developing ruby on rails web software and applications. With years of existence and skills, we have been providing ROR services to our clients that completely satisfy their requirements. In addition to this, we specialize in custom development using Ruby on Rails from scratch as per the business need.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Stay Connected:-
 
-```markdown
-Syntax highlighted code block
+Email - sales@bluebash.co, bluebashco@gmail.com 
 
-# Header 1
-## Header 2
-### Header 3
+Website - https://www.bluebash.co/
 
-- Bulleted
-- List
+Address: 1201 Brickell Ave #300 Miami, FL 33131
 
-1. Numbered
-2. List
+Phone :   (786) 946-1616
 
-**Bold** and _Italic_ and `Code` text
+Connected With Soical Media 
 
-[Link](url) and ![Image](src)
-```
+Facebook:- https://www.facebook.com/bluebashco
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Twitter:- https://twitter.com/bluebashco
 
-### Jekyll Themes
+LinkedIn:- https://www.linkedin.com/company/bluebashco
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BlueBash/bluebash.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Instagram:- https://www.instagram.com/bluebashco/
 
-### Support or Contact
+YouTube:- https://www.youtube.com/channel/UC1gABgoQfdH1euLhUL9-i4A
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
