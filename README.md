@@ -14,7 +14,7 @@ Address: 1201 Brickell Ave #300 Miami, FL 33131
 
 Phone :   (786) 946-1616
 
-<bold>Welcome to follow us on
+<bold>Welcome to follow us on<bold>
 
 Dribble - https://dribbble.com/bluebashco
 
